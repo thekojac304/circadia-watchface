@@ -1,0 +1,14 @@
+<properties>
+    <property id="SecondsMode" type="number">0</property>
+    <property id="ShowAmPm" type="boolean">true</property>
+    <property id="WristRaiseInfo" type="boolean">true</property>
+    <property id="SunPathMode" type="number">0</property>
+    <property id="ShowStars" type="boolean">true</property>
+    <property id="ShootingStars" type="boolean">true</property>
+    <property id="TwilightMode" type="number">0</property>
+    <property id="HorizonStyle" type="number">0</property>
+    <property id="BatteryMode" type="number">0</property>
+    <property id="UseManualLocation" type="boolean">false</property>
+    <property id="ManualLatitude" type="float">0.0</property>
+    <property id="ManualLongitude" type="float">0.0</property>
+</properties>

@@ -1,0 +1,6 @@
+bin/
+build/
+publish/
+developer_key*
+*.der
+*.pem

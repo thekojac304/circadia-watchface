@@ -1,0 +1,59 @@
+<settings>
+    <setting propertyKey="@Properties.SecondsMode" title="@Strings.SecondsTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.SecondsAlways</listEntry>
+            <listEntry value="1">@Strings.SecondsWrist</listEntry>
+            <listEntry value="2">@Strings.SecondsOff</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.ShowAmPm" title="@Strings.AmPmTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.WristRaiseInfo" title="@Strings.WristInfoTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.SunPathMode" title="@Strings.SunPathTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.SunPathDim</listEntry>
+            <listEntry value="1">@Strings.SunPathBright</listEntry>
+            <listEntry value="2">@Strings.SunPathHidden</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.ShowStars" title="@Strings.StarsTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.ShootingStars" title="@Strings.ShootingTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.TwilightMode" title="@Strings.TwilightTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TwilightAll</listEntry>
+            <listEntry value="1">@Strings.TwilightCivil</listEntry>
+            <listEntry value="2">@Strings.TwilightNone</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.HorizonStyle" title="@Strings.HorizonTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.HorizonMountains</listEntry>
+            <listEntry value="1">@Strings.HorizonFlat</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.BatteryMode" title="@Strings.BatteryTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.BatteryLow</listEntry>
+            <listEntry value="1">@Strings.BatteryAlways</listEntry>
+            <listEntry value="2">@Strings.BatteryNever</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.UseManualLocation" title="@Strings.UseManualTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.ManualLatitude" title="@Strings.ManualLatTitle"
+             prompt="@Strings.ManualLatPrompt">
+        <settingConfig type="numeric" min="-90" max="90" />
+    </setting>
+    <setting propertyKey="@Properties.ManualLongitude" title="@Strings.ManualLonTitle"
+             prompt="@Strings.ManualLonPrompt">
+        <settingConfig type="numeric" min="-180" max="180" />
+    </setting>
+</settings>

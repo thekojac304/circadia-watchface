@@ -1,0 +1,39 @@
+<strings>
+    <string id="SecondsTitle">Seconds</string>
+    <string id="SecondsAlways">Always</string>
+    <string id="SecondsWrist">Only on wrist raise</string>
+    <string id="SecondsOff">Off</string>
+
+    <string id="AmPmTitle">AM/PM indicator (12-hour mode)</string>
+
+    <string id="WristInfoTitle">Sunrise/sunset countdown on wrist raise</string>
+
+    <string id="SunPathTitle">Sun path</string>
+    <string id="SunPathDim">Dim after sunset</string>
+    <string id="SunPathBright">Always bright</string>
+    <string id="SunPathHidden">Hidden</string>
+
+    <string id="StarsTitle">Stars at night</string>
+    <string id="ShootingTitle">Occasional shooting stars (on wrist raise)</string>
+    <string id="MoonReadoutTitle">Moon phase readout</string>
+
+    <string id="TwilightTitle">Twilight bands</string>
+    <string id="TwilightAll">Civil, nautical and astronomical</string>
+    <string id="TwilightCivil">Civil only</string>
+    <string id="TwilightNone">None (day and night only)</string>
+
+    <string id="HorizonTitle">Horizon</string>
+    <string id="HorizonMountains">Mountains</string>
+    <string id="HorizonFlat">Flat</string>
+
+    <string id="BatteryTitle">Battery</string>
+    <string id="BatteryLow">Only when low (20% or less)</string>
+    <string id="BatteryAlways">Always</string>
+    <string id="BatteryNever">Never</string>
+
+    <string id="UseManualTitle">Use manual location</string>
+    <string id="ManualLatTitle">Latitude</string>
+    <string id="ManualLatPrompt">Decimal degrees, north positive (e.g. 51.5)</string>
+    <string id="ManualLonTitle">Longitude</string>
+    <string id="ManualLonPrompt">Decimal degrees, east positive (e.g. -122.4)</string>
+</strings>
