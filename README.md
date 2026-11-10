@@ -6,13 +6,13 @@ a horizon.
 
 ## Features
 
-- **Sky model.** Sun and moon positions, sunrise and sunset, and civil/nautical/astronomical twilight are computed on
+- **Sky model.** Sun and moon positions, sunrise and sunset, and twilight are computed on
   the watch from GPS or a manual latitude and longitude.
 - **Display settings:**
   - Sun path: dim, bright or hidden.
   - Twilight bands: all, civil only or none.
   - Horizon: mountains or flat.
-  - Stars and shooting stars, and a moon readout.
+  - Stars and shooting stars, and a moon phase readout.
 - **Time display:**
   - Seconds: always, on wrist raise or off.
   - AM/PM marker, or military format for 24-hour time.
