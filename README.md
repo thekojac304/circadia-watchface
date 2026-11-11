@@ -59,4 +59,5 @@ the release instead.
 
 ## License
 
-No license has been chosen.
+MIT ([LICENSE](LICENSE)). Garmin, Connect IQ and the watch names are trademarks of Garmin Ltd.; building the
+watch face uses the Connect IQ SDK under Garmin's own SDK license. This project isn't affiliated with Garmin.
